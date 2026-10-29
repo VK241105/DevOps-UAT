@@ -1,0 +1,7 @@
+@"
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+evidently_report.html
+"@ | Set-Content .gitignore
